@@ -40,7 +40,14 @@ pelican -s pelicanconf.py -o output content
 
 
 (marckruza) ➜  mskweb pelican -r -l
-# or make devserver
+# or 
+make devserver
 
+# HOW TO INSERT IMAGE JPG | AFTER DAY OF DEBUGGING - found it by reading error message under "make devserver"  "  Unable to find .jpg   or variations pelican  " , googled and finally found the right stackoverflow article. Was a simple fix, but if it hadn't worked I would have had to inspect the html templates and rendering of variables
 
-
+# https://stackoverflow.com/questions/38941806/how-can-i-link-the-static-profile-jpg-image-to-all-the-pelican-files
+../mskweb/content/home.md
+![El Sal Gang]({static}images/el_sal_gang.jpg) 
+# make sure static global var for dir is set:
+../mskweb/pelicanconf.py:
+STATIC_PATHS = ['images']
