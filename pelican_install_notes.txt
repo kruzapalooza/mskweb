@@ -1,0 +1,46 @@
+
+#### https://hackercodex.com/guide/pelican-static-site-generator-install/ ####
+
+
+python3 -m venv marckruza
+source marckruza/bin/activate
+
+(marckruza) ➜ 
+
+(marckruza) ➜ pip install pelican markdown typogrify
+
+mkdir mskweb
+cd mskweb
+
+pelican-quickstart
+
+> Where do you want to create your new web site? [.] 
+> What will be the title of this web site? Marc S. Kruza
+> Who will be the author of this web site? Marc S. Kruza
+> What will be the default language of this web site? [en] 
+> Do you want to specify a URL prefix? e.g., https://example.com   (Y/n) Y
+> What is your URL prefix? (see above example; no trailing slash) http://marckruza.com
+> Do you want to enable article pagination? (Y/n) 
+> How many articles per page do you want? [10] 
+> What is your time zone? [Europe/Rome] America/New_York
+> Do you want to generate a tasks.py/Makefile to automate generation and publishing? (Y/n) 
+> Do you want to upload your website using FTP? (y/N) n
+> Do you want to upload your website using SSH? (y/N) n
+> Do you want to upload your website using Dropbox? (y/N) n
+> Do you want to upload your website using S3? (y/N) y
+> What is the name of your S3 bucket? [my_s3_bucket] 
+> Do you want to upload your website using Rackspace Cloud Files? (y/N) n
+> Do you want to upload your website using GitHub Pages? (y/N) n
+Done. Your new project is available at /Users/marcs.kruza/mskweb
+(marckruza) ➜  mskweb 
+
+# Create a home.md file, put in ./content
+
+pelican -s pelicanconf.py -o output content
+
+
+(marckruza) ➜  mskweb pelican -r -l
+# or make devserver
+
+
+
