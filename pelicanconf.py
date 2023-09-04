@@ -3,7 +3,7 @@ SITENAME = 'Marc S. Kruza'
 SITEURL = ''
 
 PATH = 'content'
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images' , '../images']
 
 TIMEZONE = 'America/New_York'
 

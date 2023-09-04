@@ -6,5 +6,5 @@ Summary: Welcome page for Marc S. Kruza
 
 Hi, I'm Marc S. Kruza. Welcome to my website! Here you'll find my music, writing, novel and travels. Enjoy!
 
-![El Sal Gang]({static}images/me_longboard_house.jpg) 
-
+![Me at Longboard House]({static}images/me_longboard_house.jpg) 
+![El Sal Gang]({static}images/me_pastel.jpg)
