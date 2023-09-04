@@ -6,8 +6,7 @@ Summary: Music Welcome page for Marc S. Kruza
 
 Here you'll find my 2 EP's, Shade of Sunshine and Salt, Sand and Clay. Enjoy!
 
-![Me at Longboard House]({static}images/me_longboard_house.jpg) 
-![El Sal Gang]({static}images/me_pastel.jpg)
+![El Sal Gang]({static}/images/me_pastel.jpg)
 
 Salt, Sand and Clay EP Release 2021
 Download From:
