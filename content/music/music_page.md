@@ -17,6 +17,9 @@ Download From:
 [Deezer]https://www.deezer.com/us/album/196936562
 [Google Drive]https://drive.google.com/drive/folders/1-Z-kKbMnTpNchm-QXKB0jXCsndTTzmBK?usp=sharing
 
+![Shade of Sunshine]({static}/images/sunshine_sunset.jpg)
+
+
 Shade of Sunshine EP Release 2020
 Download From:
 
@@ -26,4 +29,5 @@ Download From:
 [Google Drive](https://drive.google.com/drive/folders/189woIzCYaO5FLryTT0j9iLm_94oKx44C?usp=sharing)
 
 Music Video: Island Calling
-(https://youtu.be/SNw72MXcGuc)
+
+[Shade of Sunshine](https://youtu.be/SNw72MXcGuc)
