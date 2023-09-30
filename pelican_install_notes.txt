@@ -1,11 +1,16 @@
 
-#### https://hackercodex.com/guide/pelican-static-site-generator-install/ ####
-
+#### Run notes ####
 
 python3 -m venv marckruza
 source marckruza/bin/activate
+cd /Users/marcs.kruza/mskweb
+make devserver
 
-(marckruza) ➜ 
+### Serving site at: http://127.0.0.1:8000  or localhost:8000
+
+#### Install Notes ####
+
+#### https://hackercodex.com/guide/pelican-static-site-generator-install/ ####
 
 (marckruza) ➜ pip install pelican markdown typogrify
 
