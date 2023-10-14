@@ -1,7 +1,7 @@
 Title: My Novel
 Slug: Novel Page
 Date: 2023-09-06
-Tags: musical
+Tags: writing
 Summary: Novel Welcome page for Marc S. Kruza
 
 Wrote and self-published a novel... crossed that off the bucket list. Enjoy,

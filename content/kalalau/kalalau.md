@@ -85,21 +85,3 @@ To this day, these are some of my best memories recalled, and one of the best le
 
 ![Kalalau]({static}/images/chet_and_me1.jpg)
 
-
-ocean_and_kruza
-rainbow
-crawlers_ledge1
-napali_coast_first_sight
-chet_and_kruza
-
-
-campground_tent
-campground_shower1
-
-mountain_stream3
-
-mountain_stream_chillin2
-
-travellers_stone_circle
-
-chet_and_me1
