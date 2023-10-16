@@ -18,18 +18,19 @@ Coronageddon quarantine did me a solid. It helped reunite me with my fellow Star
 
 After a good night sleep on an airbed in Tommy's living room at his home in Villas, he drove us to downtown Cape May to start out our first full day of vacation.
 
-McGlades, next to the convention center, greated us with breakfast by the shore, and me to an Old Bill omelette. Next, the Beach Avenue promenade welcomed us with patriotic flair, and Congress Hall with old-but-renovated hotel charm to start our day. Washington Street pedestrian Mall gave Tommy a chance to show me his fragrant place of business, Bath Time. I played a perect tourist and bought both candles and coffee. 
+McGlades, next to the convention center, greeted us with breakfast by the shore, and me to an Old Bill omelette. Next, the Beach Avenue promenade welcomed us with patriotic flair, and Congress Hall with old-but-renovated hotel charm to start our day. Washington Street pedestrian Mall gave Tommy a chance to show me his fragrant place of business, Bath Time. I played a perect tourist and bought both candles and coffee. 
 
 ![McGlades]({static}/images/cousins/mcglades.jpg)
 ![Beach Ave.]({static}/images/cousins/cape_may_beach_ave.jpg)
 ![Congree Hall]({static}/images/cousins/congress_hall.jpg)
 ![Beach Ave.]({static}/images/cousins/washington_st_mall.jpg)
 
-
+Next, we heard echos of World War II at the lighthouse, bunker, and Cape May Point...
 
 ![]({static}/images/cousins/cape_may_point.jpg)
 ![]({static}/images/cousins/fort_miles_battery_bunker.jpg)
 ![]({static}/images/cousins/cape_may_lighthouse.jpg)
+
 
 
 ![]({static}/images/cousins/coast_guard_wildwood_nas.jpg)
