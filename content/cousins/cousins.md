@@ -25,7 +25,7 @@ McGlades, next to the convention center, greeted us with breakfast by the shore,
 ![Congree Hall]({static}/images/cousins/congress_hall.jpg)
 ![Beach Ave.]({static}/images/cousins/washington_st_mall.jpg)
 
-Next, we heard echos of World War II at the lookout tower, lighthouse, and bunker. The lighthouse tour guide recounted the history. For the first two full years the USA spent in WW1, the air and sky above Cape May looked serene, but ship convoys proved an underwater turkey shoot for German U-boats lying in wait below the surface. It took two years for aerial surveillance and ship sonar and targetting depth charges to turn the underwater tide and keep the U-boats at bay. 
+Next, we heard echos of World War II at the lookout tower, lighthouse, and bunker. The lighthouse tour guide recounted the history. For the first two full years the USA spent in WW2, the air and sky above Cape May looked serene, but ship convoys proved an underwater turkey shoot for German U-boats lying in wait below the surface. It took two years for aerial surveillance and ship sonar and targetting depth charges to turn the underwater tide and keep the U-boats at bay. 
 
 ![]({static}/images/cousins/cape_may_point.jpg)
 ![]({static}/images/cousins/fort_miles_battery_bunker.jpg)
@@ -38,6 +38,8 @@ Wildwood Naval Air Station Air Museum's old bi-planes and bronze plaques told st
 ![]({static}/images/cousins/us_navy_ww2.jpg)
 ![]({static}/images/cousins/kilroy.jpg)
 
-![]({static}/images/cousins/bttf_musical_preshow.jpg)
+# Sunday 2023-09-10
 
+![]({static}/images/cousins/bttf_musical_preshow.jpg)
+![]({static}/images/cousins/bttf_curtain_call.jpg)
 
