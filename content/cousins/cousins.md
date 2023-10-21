@@ -38,8 +38,50 @@ Wildwood Naval Air Station Air Museum's old bi-planes and bronze plaques told st
 ![]({static}/images/cousins/us_navy_ww2.jpg)
 ![]({static}/images/cousins/kilroy.jpg)
 
+## Quadruple the Cousins ##
+
+Menz Restaurant - God Forbid
+ 
+![]({static}/images/cousins/4_cousins.jpg)
+
 # Sunday 2023-09-10
 
-![]({static}/images/cousins/bttf_musical_preshow.jpg)
-![]({static}/images/cousins/bttf_curtain_call.jpg)
+## Midtown Manhattan ##
 
+![]({static}/images/cousins/times_square_me_tommy.jpg)
+![]({static}/images/cousins/times_square_me_sk8.jpg)
+![]({static}/images/cousins/times_square_shaka.jpg)
+![]({static}/images/cousins/mm_green.jpg)
+
+## Back to the Future the Musical
+
+![]({static}/images/cousins/bttf_curtain_call.jpg)
+![]({static}/images/cousins/bttf_pano.jpg)
+
+## Soggy Night Walk
+
+![]({static}/images/cousins/times_square_night.jpg)
+![]({static}/images/cousins/times_square_night_2.jpg)
+![]({static}/images/cousins/30_rock.jpg)
+
+## Monday 2023-09-11 ##
+
+![]({static}/images/cousins/oculus_1.jpg)
+![]({static}/images/cousins/oculus_me.jpg)
+![]({static}/images/cousins/st_paul_1.jpg)
+![]({static}/images/cousins/st_paul_hebrew.jpg)
+![]({static}/images/cousins/st_paul_pano.jpg)
+![]({static}/images/cousins/st_paul_patches.jpg)
+![]({static}/images/cousins/st_paul_pew.jpg)
+![]({static}/images/cousins/staten_island_ferry.jpg)
+![]({static}/images/cousins/too_cheap_4_ferry.jpg)
+![]({static}/images/cousins/too_cheap_statue_liberty.jpg)
+![]({static}/images/cousins/wtc_1.jpg)
+![]({static}/images/cousins/wtc_battery.jpg)
+![]({static}/images/cousins/wtc_battery_us.jpg)
+![]({static}/images/cousins/wtc_from_battery.jpg)
+![]({static}/images/cousins/wtc_me.jpg)
+![]({static}/images/cousins/zuccotti_park_pano.jpg)
+![]({static}/images/cousins/zuccotti_me_tommy.jpg)
+![]({static}/images/cousins/1_train.jpg)
+![]({static}/images/cousins/staten_island_ferry.jpg)
