@@ -58,13 +58,13 @@ Menz Restaurant - God Forbid
 ![]({static}/images/cousins/bttf_curtain_call.jpg)
 ![]({static}/images/cousins/bttf_pano.jpg)
 
-## Soggy Night Walk
+## Soggy Night Walk ##
 
 ![]({static}/images/cousins/times_square_night.jpg)
 ![]({static}/images/cousins/times_square_night_2.jpg)
 ![]({static}/images/cousins/30_rock.jpg)
 
-## Monday 2023-09-11 ##
+# Monday 2023-09-11 #
 
 ![]({static}/images/cousins/oculus_1.jpg)
 ![]({static}/images/cousins/oculus_me.jpg)
@@ -85,3 +85,7 @@ Menz Restaurant - God Forbid
 ![]({static}/images/cousins/zuccotti_me_tommy.jpg)
 ![]({static}/images/cousins/1_train.jpg)
 ![]({static}/images/cousins/staten_island_ferry.jpg)
+
+## Barneget Light ## 
+
+![]({static}/images/cousins/barnegat_light.jpg)
