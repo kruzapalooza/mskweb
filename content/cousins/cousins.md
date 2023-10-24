@@ -89,3 +89,33 @@ Menz Restaurant - God Forbid
 ## Barneget Light ## 
 
 ![]({static}/images/cousins/barnegat_light.jpg)
+
+# Tuesday 2023-09-12
+
+## Beach Day
+
+![]({static}/images/cousins/beach_day_1.jpg)
+![]({static}/images/cousins/beach_day_2.jpg)
+![]({static}/images/cousins/beach_day_3.jpg)
+
+# Family History
+
+![]({static}/images/cousins/wildwood_old_house_4.jpg)
+![]({static}/images/cousins/wildwood_lotties_old_house.jpg.jpg)
+![]({static}/images/cousins/wildwood_louie_fran_old_house.jpg)
+![]({static}/images/cousins/wildwood_grandma_site.jpg)
+
+# Hereford Lighthouse
+
+![]({static}/images/cousins/north_wildwood_seawall.jpg)
+![]({static}/images/cousins/in_memory_lost_sea.jpg)
+![]({static}/images/cousins/me_tommy_hereford.jpg)
+![]({static}/images/cousins/hereford_garden.jpg)
+![]({static}/images/cousins/hereford_garden_pano.jpg)
+![]({static}/images/cousins/hereford_lighthouse.jpg)
+![]({static}/images/cousins/hereford_fresnel.jpg)
+![]({static}/images/cousins/hereford_light_pano.jpg)
+![]({static}/images/cousins/hereford_sign.jpg)
+
+
+
