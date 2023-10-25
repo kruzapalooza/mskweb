@@ -100,10 +100,30 @@ Menz Restaurant - God Forbid
 
 # Family History
 
-![]({static}/images/cousins/wildwood_old_house_4.jpg)
-![]({static}/images/cousins/wildwood_lotties_old_house.jpg.jpg)
-![]({static}/images/cousins/wildwood_louie_fran_old_house.jpg)
+
+Wildwood
+
+Vacant lot church
+Old site of Rosemont
+Laura Stan
+Glenwood
+
+The spot where the Rosemont once was, my Grandma and Grandpa Kruza's rooming house, on Glenwood St., Wildwood, NJ:
 ![]({static}/images/cousins/wildwood_grandma_site.jpg)
+)
+
+The LouFran boarding house at 305-307 Magnolia St., then owned and operated by Tommy's grandparents, Lou and Fran:
+![]({static}/images/cousins/wildwood_louie_fran_old_house.jpg)
+
+Lily
+Lottie aunt
+Magnolia 
+![]({static}/images/cousins/wildwood_lotties_old_house.jpg.jpg)
+
+229 pine
+Flamingo
+Julie Frank
+![]({static}/images/cousins/wildwood_old_house_4.jpg
 
 # Hereford Lighthouse
 
