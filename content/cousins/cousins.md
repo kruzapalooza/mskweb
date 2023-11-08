@@ -31,7 +31,7 @@ Next, we heard echos of World War II at the lookout tower, lighthouse, and bunke
 ![]({static}/images/cousins/fort_miles_battery_bunker.jpg)
 ![]({static}/images/cousins/cape_may_lighthouse.jpg)
 
-Wildwood Naval Air Station Air Museum's old bi-planes and bronze plaques told stories of heroism. Kilroy, the graffiti patron saint, reminded us allied soldiers etched him into walls all over Europe to keep other fighters' spirits up and lonliness down.  Norma Jean Dogherty reminded us she worked as a riverter in the Radioplane factory before she became Hollywood's Marylyn Monroe. 
+Wildwood Naval Air Station Air Museum's old bi-planes and bronze plaques told stories of heroism. Kilroy, the graffiti patron saint, reminded us allied soldiers etched him into walls all over Europe to keep other fighters' spirits up and lonliness down. Norma Jean Dogherty aka reminded us she worked as a riverter in the Radioplane factory before she became Hollywood's Marylyn Monroe. 
 
 ![]({static}/images/cousins/coast_guard_wildwood_nas.jpg)
 ![]({static}/images/cousins/uscg_aux_plane.jpg)
@@ -40,13 +40,16 @@ Wildwood Naval Air Station Air Museum's old bi-planes and bronze plaques told st
 
 ## Quadruple the Cousins ##
 
-Menz Restaurant - God Forbid
- 
+Menz Restaurant
+Terry and Mary, my other New Jersey Cousins who live in Marlton, NJ, met us for dinner at Menz restaurant. We caught up from the last 20 years and enjoyed great food at a warm but eclectic restaurant with a signature collection of taxidermy of two-headed animals. Mary 
+
 ![]({static}/images/cousins/4_cousins.jpg)
 
 # Sunday 2023-09-10
 
 ## Midtown Manhattan ##
+
+After a very rainy drive to Tom's River Port Transit Station, Tommy and I caught the 11am Route 319 bus to the Port Authority Bus Station in Midtown, Manhattan. The rainy weather made it hard to see the skyline entering the city, but Times Square greeted us after a quick five-minute walk from the bus station in all its megatron-ad sign glory. I have to say, Times Square is much smaller and more narrow than I thought. We browsed the M&M Store and the Disney Store before checking into our hotel the Belvedere on 48th St. 
 
 ![]({static}/images/cousins/times_square_me_tommy.jpg)
 ![]({static}/images/cousins/times_square_me_sk8.jpg)
@@ -54,6 +57,8 @@ Menz Restaurant - God Forbid
 ![]({static}/images/cousins/mm_green.jpg)
 
 ## Back to the Future the Musical
+
+Then, the main event, the anchor of our Manhattan trip, what my musical theater nerd Tommy and I came most to see... Back to the Future the Musical, at the Winter Garden Theater.
 
 ![]({static}/images/cousins/bttf_curtain_call.jpg)
 ![]({static}/images/cousins/bttf_pano.jpg)
