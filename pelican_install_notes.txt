@@ -1,14 +1,42 @@
+# Easiest way to clone git repo to local box and use existing rsa keys. 
+ 1286  brew install gh
+ 1287  gh repo create mskweb --private --source=. --remote=upstream
+ 1288  gh auth login
+
+
+# S3_BUCKET=arn:aws:s3:us-east-2:100627384719:accesspoint/marckruza-access-point
+# Find this version of the ARN at:
+# Amazon S3 -> <your_bucket> -> Access Points -> <your_access_point> -> Properties -> Amazon Resource Name (ARN) -> [ copy_to_clipboard ]
+
+# Browser:
+# http://marckruza.org.s3-website.us-east-2.amazonaws.com
 
 #### Run notes ####
 
-python3 -m venv marckruza
-source marckruza/bin/activate
-cd /Users/marcs.kruza/mskweb
+cd <home_dir>/mskweb
+python3 -m venv ../vmsk
+source ../vmsk/bin/activate
 make devserver
 
 ### Serving site at: http://127.0.0.1:8000  or localhost:8000
 
-#### Install Notes ####
+
+### S3 bucket install notes
+https://trevorfox.com/2020/03/hosting-your-static-site-with-amazon-s3/
+aws gui (https://s3.console.aws.amazon.com/s3/bucket/create?region=us-east-2):
+	bucket name = mskweb-s3
+	region = Ohio 
+	ACLs disabled: Yes
+	Block all public access:No
+
+edit makefile ; change s3 value: S3_BUCKET=arn:aws:s3:::mskweb-s3. # arn from aws
+
+pip3 install awscli --upgrade --user
+
+
+COMMMENT OUT --acl option in makefile in "aws cli s3" commands if ACLs are disabled on S3 bucket
+
+#### Install Notes (ca. 2023-09) ####
 
 #### https://hackercodex.com/guide/pelican-static-site-generator-install/ ####
 
@@ -16,7 +44,6 @@ make devserver
 
 mkdir mskweb
 cd mskweb
-
 pelican-quickstart
 
 > Where do you want to create your new web site? [.] 

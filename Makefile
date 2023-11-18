@@ -8,8 +8,7 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-S3_BUCKET=my_s3_bucket
-
+S3_BUCKET=arn:aws:s3:us-east-2:100627384719:accesspoint/marckruza-access-point
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -72,7 +71,7 @@ publish:
 	"$(PELICAN)" "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(PUBLISHCONF)" $(PELICANOPTS)
 
 s3_upload: publish
-	aws s3 sync "$(OUTPUTDIR)"/ s3://$(S3_BUCKET) --acl public-read --delete
+	aws s3 sync "$(OUTPUTDIR)"/ s3://$(S3_BUCKET) # --acl public-read --delete
 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish s3_upload
