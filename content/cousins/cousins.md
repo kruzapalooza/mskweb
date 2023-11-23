@@ -123,7 +123,7 @@ The LouFran boarding house at 305-307 Magnolia St., then owned and operated by T
 Lily
 Lottie aunt
 Magnolia 
-![]({static}/images/cousins/wildwood_lotties_old_house.jpg.jpg)
+![]({static}/images/cousins/wildwood_lotties_old_house.jpg)
 
 229 pine
 Flamingo
