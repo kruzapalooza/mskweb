@@ -70,7 +70,7 @@ Then, the main event, the anchor of our Manhattan trip, what my musical theater 
 ![]({static}/images/cousins/30_rock.jpg)
 
 # Monday 2023-09-11 #
-
+ 
 ![]({static}/images/cousins/oculus_1.jpg)
 ![]({static}/images/cousins/oculus_me.jpg)
 ![]({static}/images/cousins/st_paul_1.jpg)

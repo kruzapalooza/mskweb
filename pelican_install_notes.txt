@@ -1,3 +1,6 @@
+[remote "origin"]
+    url = ssh://git@github.com/kruzapalooza/mskwe
+
 # Easiest way to clone git repo to local box and use existing rsa keys. 
  1286  brew install gh
  1287  gh repo create mskweb --private --source=. --remote=upstream
