@@ -73,26 +73,32 @@ Then, the main event, the anchor of our Manhattan trip, what my musical theater 
  
 ![]({static}/images/cousins/oculus_1.jpg)
 ![]({static}/images/cousins/oculus_me.jpg)
+
 ![]({static}/images/cousins/st_paul_1.jpg)
 ![]({static}/images/cousins/st_paul_hebrew.jpg)
 ![]({static}/images/cousins/st_paul_pano.jpg)
 ![]({static}/images/cousins/st_paul_patches.jpg)
 ![]({static}/images/cousins/st_paul_pew.jpg)
-![]({static}/images/cousins/staten_island_ferry.jpg)
-![]({static}/images/cousins/too_cheap_4_ferry.jpg)
-![]({static}/images/cousins/too_cheap_statue_liberty.jpg)
+
 ![]({static}/images/cousins/wtc_1.jpg)
-![]({static}/images/cousins/wtc_battery.jpg)
-![]({static}/images/cousins/wtc_battery_us.jpg)
-![]({static}/images/cousins/wtc_from_battery.jpg)
+
 ![]({static}/images/cousins/wtc_me.jpg)
 ![]({static}/images/cousins/zuccotti_park_pano.jpg)
 ![]({static}/images/cousins/zuccotti_me_tommy.jpg)
-![]({static}/images/cousins/1_train.jpg)
+
+![]({static}/images/cousins/wtc_battery.jpg)
+![]({static}/images/cousins/wtc_battery_us.jpg)
+![]({static}/images/cousins/wtc_from_battery.jpg)
+![]({static}/images/cousins/too_cheap_4_ferry.jpg)
+![]({static}/images/cousins/too_cheap_statue_liberty.jpg)
+
 ![]({static}/images/cousins/staten_island_ferry.jpg)
+
+![]({static}/images/cousins/1_train.jpg)
 
 ## Barneget Light ## 
 
+We got to Barneget Light about a half-hour after it closed (dangit:)
 ![]({static}/images/cousins/barnegat_light.jpg)
 
 # Tuesday 2023-09-12
@@ -120,17 +126,15 @@ The spot where the Rosemont once was, my Grandma and Grandpa Kruza's rooming hou
 The LouFran boarding house at 305-307 Magnolia St., then owned and operated by Tommy's grandparents, Lou and Fran:
 ![]({static}/images/cousins/wildwood_louie_fran_old_house.jpg)
 
-Lily
-Lottie aunt
-Magnolia 
+The Lily boarding house, run by my great Aunt Lottie, across the street, also on Magnolia. It's still a motel:  
 ![]({static}/images/cousins/wildwood_lotties_old_house.jpg)
 
-229 pine
-Flamingo
-Julie Frank
+229 Pine St., fomerly The Flamingo, run by my great Aunt Julie and Uncle Frank:
 ![]({static}/images/cousins/wildwood_old_house_4.jpg
 
 # Hereford Lighthouse
+
+Our last day, last lighthouse, the Hereford Lighthouse, at the historically trecherous North Wildwood Inlet:
 
 ![]({static}/images/cousins/north_wildwood_seawall.jpg)
 ![]({static}/images/cousins/in_memory_lost_sea.jpg)
