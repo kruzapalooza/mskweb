@@ -52,7 +52,7 @@ Terry and Mary, my other New Jersey Cousins who live in Marlton, NJ, met us for 
 After a very rainy drive to Tom's River Port Transit Station, Tommy and I caught the 11am Route 319 bus to the Port Authority Bus Station in Midtown, Manhattan. The rainy weather made it hard to see the skyline entering the city, but Times Square greeted us after a quick five-minute walk from the bus station in all its megatron-ad sign glory. I have to say, Times Square is much smaller and more narrow than I thought. We browsed the M&M Store and the Disney Store before checking into our hotel the Belvedere on 48th St. 
 
 ![]({static}/images/cousins/times_square_me_tommy.jpg)
-![]({static}/images/cousins/times_square_me_sk8.jpg)
+![]({static}/images/cousins/times_square_sk8.jpg) 
 ![]({static}/images/cousins/times_square_shaka.jpg)
 ![]({static}/images/cousins/mm_green.jpg)
 
@@ -60,7 +60,7 @@ After a very rainy drive to Tom's River Port Transit Station, Tommy and I caught
 
 Then, the main event, the anchor of our Manhattan trip, what my musical theater nerd Tommy and I came most to see... Back to the Future the Musical, at the Winter Garden Theater.
 
-![]({static}/images/cousins/bttf_curtain_call.jpg)
+![]({static}/images/cousins/bttf_curtain_call.jpeg) 
 ![]({static}/images/cousins/bttf_pano.jpg)
 
 ## Soggy Night Walk ##
@@ -81,12 +81,10 @@ Then, the main event, the anchor of our Manhattan trip, what my musical theater 
 ![]({static}/images/cousins/st_paul_pew.jpg)
 
 ![]({static}/images/cousins/wtc_1.jpg)
-
 ![]({static}/images/cousins/wtc_me.jpg)
-![]({static}/images/cousins/zuccotti_park_pano.jpg)
-![]({static}/images/cousins/zuccotti_me_tommy.jpg)
 
-![]({static}/images/cousins/wtc_battery.jpg)
+![]({static}/images/cousins/zuccotti_park_pano.jpg)
+![]({static}/images/cousins/zucotti_me_tommy.jpg) 
 ![]({static}/images/cousins/wtc_battery_us.jpg)
 ![]({static}/images/cousins/wtc_from_battery.jpg)
 ![]({static}/images/cousins/too_cheap_4_ferry.jpg)
@@ -105,19 +103,13 @@ We got to Barneget Light about a half-hour after it closed (dangit:)
 
 ## Beach Day
 
+The cove had fun, clean, knee high lefts peeling at The Cove. There were about five surfers out. I really wanted to give Tommy surf lessons, but the only shop in Cape May to rent a board was closed. So we took a "tourist summer" day and enjoyed a near-empty beach.
+
 ![]({static}/images/cousins/beach_day_1.jpg)
 ![]({static}/images/cousins/beach_day_2.jpg)
 ![]({static}/images/cousins/beach_day_3.jpg)
 
 # Family History
-
-
-Wildwood
-
-Vacant lot church
-Old site of Rosemont
-Laura Stan
-Glenwood
 
 The spot where the Rosemont once was, my Grandma and Grandpa Kruza's rooming house, on Glenwood St., Wildwood, NJ:
 ![]({static}/images/cousins/wildwood_grandma_site.jpg)
@@ -140,7 +132,7 @@ Our last day, last lighthouse, the Hereford Lighthouse, at the historically trec
 ![]({static}/images/cousins/in_memory_lost_sea.jpg)
 ![]({static}/images/cousins/me_tommy_hereford.jpg)
 ![]({static}/images/cousins/hereford_garden.jpg)
-![]({static}/images/cousins/hereford_garden_pano.jpg)
+![]({static}/images/cousins/hereford_garden_pano.jpg) 
 ![]({static}/images/cousins/hereford_lighthouse.jpg)
 ![]({static}/images/cousins/hereford_fresnel.jpg)
 ![]({static}/images/cousins/hereford_light_pano.jpg)
