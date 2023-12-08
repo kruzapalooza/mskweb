@@ -65,6 +65,8 @@ Then, the main event, the anchor of our Manhattan trip, what my musical theater 
 
 ## Soggy Night Walk ##
 
+Tommy and I thought we we set on dining on Sushi, but picked Kitchen 46 with Mediterrean cuisine instead. I think I ordered seafood, but I know I had two glasses of wine. Tommy and I conitinued catching up on life and enjoying the wonderful cousin company.
+
 ![]({static}/images/cousins/times_square_night.jpg)
 ![]({static}/images/cousins/times_square_night_2.jpg)
 ![]({static}/images/cousins/30_rock.jpg)
