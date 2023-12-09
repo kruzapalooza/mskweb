@@ -1,5 +1,5 @@
 [remote "origin"]
-    url = ssh://git@github.com/kruzapalooza/mskwe
+    url = ssh://git@github.com/kruzapalooza/mskweb
 
 # Easiest way to clone git repo to local box and use existing rsa keys. 
  1286  brew install gh

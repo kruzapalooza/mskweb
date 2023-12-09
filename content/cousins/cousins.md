@@ -72,6 +72,8 @@ Tommy and I thought we we set on dining on Sushi, but picked Kitchen 46 with Med
 ![]({static}/images/cousins/30_rock.jpg)
 
 # Monday 2023-09-11 #
+
+While watching the "Reading of the Names" on the morning news on the 22nd anniversary of 9/11, Tommy asked me "How could anybody ever do such a thing?" My only answer was to quote Volataire: "If you can get people to believe absurdities, you can get them to commit atrocities.s"
  
 ![]({static}/images/cousins/oculus_1.jpg)
 ![]({static}/images/cousins/oculus_me.jpg)
