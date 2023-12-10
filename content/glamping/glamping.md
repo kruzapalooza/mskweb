@@ -1,5 +1,5 @@
 Title: Planes, Trains and Towtrucks
-Slug: Planes Trains Towtrucks
+Slug: Glamping
 Date: 2017-02-21
 Tags: travel
 Summary: California Glamping
